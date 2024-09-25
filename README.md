@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-ML project to predict trip duration in NYC city followed modular approach with best Mlps practices
+ML project to predict trip duration in NYC city followed modular approach with best Mlops practices
 
 ## Project Organization
 
